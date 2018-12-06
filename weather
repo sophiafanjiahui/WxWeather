@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<style type="text/css">
+
+  h1 {text-align: center}
+h2 {text-align: center}
+  p{text-align: center}
+body {background-color: #99FFFF}
+h1 {background-color: transparent}
+h2 {background-color: transparent}
+p {background-color: transparent}
+
+p.no2 {background-color: transparent; padding: 20px;}
+
+
+</style>
+
+</head>
+
+<body>
+
+<h1>北京天气</h1>
+<h2>晴天</h2>
+<p>3℃</p>
+<p class="no2">空气质量 良好</p>
+
+</body>
+</html>
